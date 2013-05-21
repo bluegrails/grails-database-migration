@@ -4,3 +4,4 @@ stacktrace.log
 /docs
 /grails-database-migration-*.zip
 /plugin.xml
+web-app
